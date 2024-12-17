@@ -1,6 +1,6 @@
-Caféothèque est une application qui présente les cafés du monde et quelques savoureuses recettes via une API maison.
+## **Caféothèque** est une application qui présente les cafés du monde et quelques savoureuses recettes via une API maison.
 
-Technos : React, TypeScript, Javascript, HTML, CSS
+## Technos :  React, TypeScript, Javascript, HTML, CSS
 Outils : VsCode, Git, Trello
 Design : Coolors, ColorZilla, Excalidraw, Figma
 Méthodes de travail : SCRUM, Agile
